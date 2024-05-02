@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @yoma75
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hola, Soy Tecnologo en Gastronomia, Tecnico en corte de carnes y Estudiante en desarrollo web
+- 👀 Estoy interesado en el desarrollo frontend y backend, aprendiendo cada dia.
+- 🌱 Actualmente estoy aprendiendo Java en plataformas virtuales
+- 💞️ Colaboro y me colaboran en lo que necesite. Enseñando se aprende mas.
+- 📫 Me pueden escribir a: fredcolor48@outlook.com
 
 <!---
 yoma75/yoma75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
