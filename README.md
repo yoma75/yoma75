@@ -1,6 +1,6 @@
 - 👋 Hola, Soy Tecnologo en Gastronomia, Tecnico en corte de carnes y Estudiante en desarrollo web
 - 👀 Estoy interesado en el desarrollo frontend y backend, aprendiendo cada dia.
-- 🌱 Actualmente estoy aprendiendo Java en plataformas virtuales
+- 🌱 Actualmente estoy aprendiendo Java y Kotlin en plataformas virtuales
 - 💞️ Colaboro y me colaboran en lo que necesite. Enseñando se aprende mas.
 - 📫 Me pueden escribir a: fredcolor48@outlook.com
 
