@@ -1,3 +1,5 @@
+<img width="1940" height="673" alt="Image" src="https://github.com/user-attachments/assets/7e9905bd-1ac5-45ab-94a9-78ac27881cc9" />
+
 # 👨‍🍳 ¡Hola, soy Fredy!
 
 Soy **Tecnólogo en Gastronomía**, **Técnico en corte de carnes** y actualmente **estudiante de desarrollo web**. Me apasiona aprender, compartir y construir cosas útiles y bonitas.
