@@ -1,4 +1,4 @@
-<img width="1940" height="673" alt="Image" src="https://github.com/user-attachments/assets/7e9905bd-1ac5-45ab-94a9-78ac27881cc9" />
+<img width="1344" height="768" alt="Image" src="https://github.com/user-attachments/assets/4fda7bdf-4f28-4f1c-ad38-ea0c82d4164e" />
 
 # 👨‍🍳 ¡Hola, soy Fredy!
 
